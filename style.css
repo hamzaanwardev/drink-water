@@ -58,7 +58,7 @@ h3 {
     background-color: var(--fill-color);
     color: white;
 }
-.cup {
+.cups {
     display: flex;
     flex-wrap: wrap;
     width: 280px;
